@@ -1,0 +1,13 @@
+npm init -y create package
+npm install express mysql cors nodemon bcrypt cookie-parser jsonwebtoken
+create file server.js on server folder
+cd .. from server folder
+npm init vite same on main folder 
+edit projectname on Project-name
+select framework React
+select variant javascript
+
+npm install on frontend folder
+
+npm install bootstrap react-router-dom axios in folder frontend
+create Login.jsx
